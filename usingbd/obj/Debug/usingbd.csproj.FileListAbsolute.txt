@@ -1,0 +1,14 @@
+C:\Users\Sapat\source\repos\usingbd\bin\Debug\usingbd.exe.config
+C:\Users\Sapat\source\repos\usingbd\bin\Debug\usingbd.exe
+C:\Users\Sapat\source\repos\usingbd\bin\Debug\usingbd.pdb
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.csproj.AssemblyReference.cache
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.Form1.resources
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.Properties.Resources.resources
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.csproj.GenerateResource.cache
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.csproj.CoreCompileInputs.cache
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.exe
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.pdb
+C:\Users\Sapat\source\repos\usingbd\bin\Debug\usingbd.exe.manifest
+C:\Users\Sapat\source\repos\usingbd\bin\Debug\usingbd.application
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.exe.manifest
+C:\Users\Sapat\source\repos\usingbd\obj\Debug\usingbd.application
